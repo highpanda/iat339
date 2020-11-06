@@ -1,10 +1,4 @@
-# IAT339 Git Exercise
+# Montville Coffee
 
-## Sam Barnett
-
-This will store the website created during IAT339.
-
-
-###
-References:
-[Simple bare-minimum HTML5 template (no CSS, no JavaScript)](https://gist.github.com/cpjobling/1988786)
+This website is produced to complete the assingment requirements of IAT339, at Simon Fraser University.
+_This is not an official website for Montville Coffee and does not express their views._
